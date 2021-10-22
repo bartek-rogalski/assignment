@@ -16,19 +16,23 @@ The test is as follows:
 
 Write a ruby script that:
 1. Receives csv file as an argument (transactions.csv is provided)
-e.g.: ./stats.rb transactions.csv
+e.g.: `./stats.rb transactions.csv`
 
 2. Returns the following:
-> Avarage transaction amount for each of the assets.
+Avarage transaction amount for each of the assets.
 
 e.g.:
+```
 XLM - 42.1 tokens
 BB1 - 55.1 tokens
 BB2 - 54.0 tokens
+```
 
-> Number of transations for each of the assets.
+Number of transations for each of the assets.
 
 e.g.:
+```
 XLM - 12 transactions
 BB1 - 9 transactions
 BB2 - 17 transactions
+```
