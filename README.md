@@ -19,18 +19,13 @@ Write a ruby script that:
 e.g.: `./stats.rb transactions.csv`
 
 2. Returns the following:
-Avarage transaction amount for each of the assets.
-
-e.g.:
+- Avarage transaction amount for each of the assets, e.g.:
 ```
 XLM - 42.1 tokens
 BB1 - 55.1 tokens
 BB2 - 54.0 tokens
 ```
-
-Number of transations for each of the assets.
-
-e.g.:
+- Number of transations for each of the assets, e.g.:
 ```
 XLM - 12 transactions
 BB1 - 9 transactions
