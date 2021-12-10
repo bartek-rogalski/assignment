@@ -1,7 +1,6 @@
 # assignment
 
-This assigment is for us to see how to approach problems and will be something that we will be able to discuss during the next interview.
-It should take you no more than 2-3 hours to complete.
+The solution to this assigment does not have to be perfect, it is more to see how to approach problems. It should take you no more than 2 hours to complete. We will have the opportunity to discuss the solution and potential improvements during the next interview.
 
 What we will be looking for in this solution are the following:
 - Functionality - the soultion works, and returns expected results
@@ -10,7 +9,7 @@ What we will be looking for in this solution are the following:
 - How do you apply object oriented programming principles
 - Efficiency
 
-Feel free to submit your solution as a link to your version control repository or source files.
+Feel free to submit source files of your solution or a link to your version control repository.
 
 The test is as follows:
 
